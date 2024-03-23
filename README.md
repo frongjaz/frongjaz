@@ -7,7 +7,7 @@ Front-end developer
 Hello there! I'm a passionate and dedicated frontend developer with a strong desire to create seamless and visually appealing user experiences. My journey in the world of web development has equipped me with a diverse set of skills, allowing me to transform creative ideas into functional and interactive digital solutions.
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [peerapat.mai@ku.th](mailto:peerapat.mai@ku.th)
+* ✉️  You can contact me at [peerapat.maidaeng@gmail.com](mailto:peerapat.maidaeng@gmail.com)
 
 ### Skills
 
